@@ -35,7 +35,7 @@ java MenuCalculator
 5. Modulus (Remainder)
 6. Square
 7. Power
-0. Exit
+8. Exit
 ======================================
 
 Enter Your Choice:
